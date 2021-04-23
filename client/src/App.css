@@ -1,0 +1,10 @@
+.row {
+  display: flex;
+  flex-direction: row;
+  margin-top: 15px;
+}
+
+.x {
+  color: red;
+  margin-left: 5px;
+}
